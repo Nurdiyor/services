@@ -16,6 +16,7 @@ import java.net.URLConnection;
 
 
 //https://www.vogella.com/tutorials/AndroidServices/article.html
+//https://www.raywenderlich.com/20123726-android-services-getting-started
 public class DownloadService extends IntentService {
 
     public static final String URL = "urlpath";

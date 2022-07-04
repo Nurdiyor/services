@@ -6,6 +6,10 @@ import android.media.MediaPlayer
 import android.os.IBinder
 //https://www.geeksforgeeks.org/services-in-android-with-example/
 //https://www.vogella.com/tutorials/AndroidServices/article.html
+//https://www.youtube.com/watch?v=bA7v1Ubjlzw
+//https://www.raywenderlich.com/20123726-android-services-getting-started
+//https://github.com/pavan5208/android_sample_foreground_service
+//https://github.com/jeetdholakia/ServicesAndBackgroundTasks
 class MusicService : Service() {
 
     // declaring object of MediaPlayer
